@@ -1,0 +1,2 @@
+forth_interpreter.adb:22:15: too many arguments in call
+forth_interpreter.adb:41:15: too many arguments in call to "Forth_Words.Add_Forth_Words"
